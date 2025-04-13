@@ -23,7 +23,7 @@
 >
 > T - Type of Person I am
 
-First of all, I would like to thank you for the opportunity of having this interview with you. Before I applied, I thoroughly studied the job description carefully, and I'm confident that I have the skills and experience to add a long term value to this company. I am Accountable, Innovative, strong attention to detail, People-Centric, Proactive, and I'm a great team player who supports my colleagues to achieve the team's goals. I also have qualifications in subjects related to this role, and certifications that I'm acquiring at the moment which will help me bring more value to this company. Outside of work, I spend my time learning new things, spending time with my family, and getting myself in shape. Which help me energize/renew myself and be more productive when I'm at work.
+Hi I'm Kent Hudson Caparas, as  you know already. First of all, I would like to thank you for the opportunity of having this interview with you. Before I applied, I thoroughly studied the job description carefully, and I'm confident that I have the skills and experience to add a long term value to this company. I am Accountable, Innovative, I do have astrong attention to detail, I'm People-Centric, Proactive, and I'm a great team player who supports my colleagues to achieve the team's goals. I also have qualifications in subjects related to this role, and certifications that I'm acquiring at the moment which will help me bring more value to this company. Outside of work, I spend my time learning new things, spending time with my family, and getting myself in shape. Which help me energize/renew myself and be more productive when I'm at work.
 
 **2. Why do you want to work for Enrollment Resources?**
 
@@ -86,13 +86,23 @@ In my educational career, I failed a course in my first year of college. I was n
 
 **1. Can you walk me through a recent web development project you worked on? What technologies you used**
 
+I've worked on a project where I built a Task Organizer Web Application using React for the frontend, Express.js, and PostgreSQL for the backend. I've follow best practices such as security for user data to ensure the user's data is safe, and seamless UI with accessibility components to guarantee great user experience. Right now, I'm currently working on an Interview Coaching Assistant Web Application; using AI to generate responses on how to get better in an interview.
+
 **2. How would you rate your proficiency in HTML, CSS, and modern JavaScript?**
+
+If I would rate my proficiecy with HTML, CSS and modern JavaScript. I would say I have 7/10. I have the knowledge and techniques to create a structure that is not only user-friendly, but is also time-efficient, storage-efficient; which eventually will cut the costs of a potential overstructured application. However, I'm still giving myself room for growth, and I highly appreciate feedbacks throughout my work.
 
 **3. Have you worked with content management systems like WordPress, Wix, or Squarespace? If yes, what did you build or manage?**
 
+As part of my program in Camosun College, we have created a portfolio project in WordPress. I used my creative side to deal with the restriction of designing in WordPress. I've injected CSS in a plugin in WordPress so that I can control the design to the way I want. As a result, my project received the highest grade, and my professor asked me for permission if he could use my project as a reference for the next year course. As much as I wanted to show it, that project is lost with the server that it was deployed in.
+
 **4. Can you explain how you would debug a webpage that isn't rendering correctly?**
 
+I usually check the logs first if there is any visible errors happening in the client side. It might show syntax errors, or some logical errors. If it's a behaviour error that isn't rendering as you expected, I would use the debugging tool in a certain component to see the structure of that component and correct the errors.
+
 **5. Do you have experience working with REST APIs or making HTTP requests in JavaScript? Can you share an example?**
+
+When working with web applications, I 
 
 **6. What's your approach to learning new technologies or frameworks quickly?**
 
