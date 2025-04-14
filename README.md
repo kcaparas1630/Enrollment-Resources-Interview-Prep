@@ -23,7 +23,7 @@
 >
 > T - Type of Person I am
 
-Hi I'm Kent Hudson Caparas, as  you know already. First of all, I would like to thank you for the opportunity of having this interview with you. Before I applied, I thoroughly studied the job description carefully, and I'm confident that I have the skills and experience to add a long term value to this company. I am Accountable, Innovative, I do have astrong attention to detail, I'm People-Centric, Proactive, and I'm a great team player who supports my colleagues to achieve the team's goals. I also have qualifications in subjects related to this role, and certifications that I'm acquiring at the moment which will help me bring more value to this company. Outside of work, I spend my time learning new things, spending time with my family, and getting myself in shape. Which help me energize/renew myself and be more productive when I'm at work.
+First of all, I would like to thank you for the opportunity of having this interview with you. Before I applied, I thoroughly studied the job description carefully, and I'm confident that I have the skills and experience to add a long term value to this company. I am Accountable, Innovative, I do have astrong attention to detail, I'm People-Centric, Proactive, and I'm a great team player who supports my colleagues to achieve the team's goals. I also have qualifications in subjects related to this role, and certifications that I'm acquiring at the moment which will help me bring more value to this company. Outside of work, I spend my time learning new things, spending time with my family, and getting myself in shape. Which help me energize/renew myself and be more productive when I'm at work.
 
 **2. Why do you want to work for Enrollment Resources?**
 
