@@ -23,7 +23,7 @@
 >
 > T - Type of Person I am
 
-First of all, I would like to thank you for the opportunity of having this interview with you. Before I applied, I thoroughly studied the job description carefully, and I'm confident that I have the skills and experience to add a long term value to this company. I am Accountable, Innovative, I do have astrong attention to detail, I'm People-Centric, Proactive, and I'm a great team player who supports my colleagues to achieve the team's goals. I also have qualifications in subjects related to this role, and certifications that I'm acquiring at the moment which will help me bring more value to this company. Outside of work, I spend my time learning new things, spending time with my family, and getting myself in shape. Which help me energize/renew myself and be more productive when I'm at work.
+First of all, I would like to thank you for the opportunity of having this interview with you. Before I applied, I thoroughly studied the job description carefully, and I'm confident that I have the skills and experience to add a long term value to this company. I am Accountable, I do have a strong attention to detail, I'm People-Centric, Proactive, and I'm a great team player who supports my colleagues to achieve the team's goals. Outside of work, I spend my time learning new things, spending time with my family, and getting myself in shape. Which help me energize/renew myself and be more productive when I'm at work.
 
 **2. Why do you want to work for Enrollment Resources?**
 
@@ -55,7 +55,7 @@ My ideal work environment is one where everyone in the team seeks to continually
 
 **9. What experience do you have relevant to this role?**
 
-I have 2 years of non-professional experience in the web development field. Especially, in the front-end development. I have intensive experience in HTML, CSS, JavaScript/TypeScript, React, Next.JS, and also with CMS platforms such as WordPress. In addition, I have experience collaborating with other developers to build a web application such as Better Berries, it is a replacement web application for the Nutrient Management Calculator of the BC Ministry of Water, Land and Resource Stewardship. On the other hand, I have 4 years of professional experience with dealing with customers in a manner that is representative of the company's values. 
+I have 2 years of non-professional experience in the web development field. Especially, in the front-end development. I have intensive experience in HTML, CSS, JavaScript/TypeScript, React, Next.JS, and also with CMS platforms such as WordPress. In addition, I have experience collaborating with other developers to build a web application such as Better Berries, it is a replacement web application for the Nutrient Management Calculator of the BC Ministry of Water, Land and Resource Stewardship. On the other hand, I have 4 years of professional experience with dealing with customers in a manner that is representative of the company's values. For example, in my previous role at the Chateau Victoria Hotel, a guest was not satisfied with the service that she received, so I've assured her that I will look into the matter and resolve it for her professionally, and calmly. Thus, earning the trust of the guest. 
 
 **10. Describe yourself in 3 words.**
 
@@ -63,7 +63,7 @@ I would describe myself as a productive, passionate, and a proactive person. I a
 
 **11. What's been your greatest achievement?**
 
-My greatest achievement was in my previous role where I helped the company by mentoring new team members in the dining room ettiquette and serving techniques, fostering a high standard dining service, which eventually led to optimized team efficiency, boosting the resident's satisfaction by 70% and also reducing the turnover rate of the team by 50%.
+My greatest achievement was in my previous role where I helped the company by mentoring new team members in the dining room ettiquette and serving techniques. Since the environment is different from serving into restaurants. There has been unsatisfied residents, and huge turnover rates for te team. With my mentorship, we fostered a high standard dining service, which eventually led to optimized team efficiency, boosting the resident's satisfaction by 70% and also reducing the turnover rate of the team by 50%.
 
 **12. What do you do outside of work?**
 
@@ -71,7 +71,7 @@ Outside of work, I spend my time learning new things, spending time with my fami
 
 **13. What can you bring for us that other candidates can't?**
 
-I can bring diverse set of skills, qualities, and experience to the team that I believe will help your business grow. I adapt quickly to changes, and will always try to solve problems without troubling my manager. I will always take care of your clients which in turn will increase sales. I can also bring a lot of energy and enthusiams to the team which will help the team to be more productive and motivated.
+I am a Web Developer with 4 years of Customer Service Experience. My experience in customer service will help me to provide great customer service to the clients of this company, and my expertise with Web Development will allow me to execute the tasks provided. I will always take care of your clients which in turn will increase sales. I can also bring a lot of energy and enthusiams to the team which will help the team to be more productive and motivated.
 
 **14. How would you deal with a difficult customer?**
 
@@ -86,7 +86,7 @@ In my educational career, I failed a course in my first year of college. I was n
 
 **1. Can you walk me through a recent web development project you worked on? What technologies you used**
 
-I've worked on a project where I built a Task Organizer Web Application using React for the frontend, Express.js, and PostgreSQL for the backend. I've follow best practices such as security for user data to ensure the user's data is safe, and seamless UI with accessibility components to guarantee great user experience. Right now, I'm currently working on an Interview Coaching Assistant Web Application; using AI to generate responses on how to get better in an interview.
+Job Searchers often have a hard time with interviews, even myself. That's why I built a web application that helps you visualize the interview environment, and pretend that you're in the interview. Your facial expressions, word choices, and body expressions will be recorded into snapshots, and gets sent to the AI to generate responses on how you can improve your interview skills. It uses React which is a popular frontend library, and Express.js, Python, and PostgreSQL for the backend. It uses tools such as mediapipe to detect the facial expressions, and OpenAI to generate responses.
 
 **2. How would you rate your proficiency in HTML, CSS, and modern JavaScript?**
 
@@ -102,7 +102,7 @@ I usually check the logs first if there is any visible errors happening in the c
 
 **5. Do you have experience working with REST APIs or making HTTP requests in JavaScript? Can you share an example?**
 
-When working with web applications, I tend to built the logic behind the scenes first. Create a structure that is time-efficient, storage-efficient, secured, and it should be reusable. Once that is done, I would create a boilerplate of the user interface, and create a function that will then fetch that data from the server, using REST APIs, and have it display in the interface. I would test if I could manage to use the CRUD operations in the application, then I would finish the application interface so it looks user-friendly, accessible, and responsive. Resulting to a smooth development of the application.
+When working with web applications, I tend to built the logic behind the scenes first. Once that is done, I would create a boilerplate of the user interface, and create a function that will then fetch that data from the server, using REST APIs, and have it display in the interface. I would test if I could manage to use the CRUD operations in the application. For example, in my RemindMe Web Application, I built a Authentication Page where it uses REST APIs to create a user in the registration page, Retrieve user data to ensure that the user exists in the login page. Lastly, delete and update user data in the profile page.
 
 **6. What's your approach to learning new technologies or frameworks quickly?**
 
