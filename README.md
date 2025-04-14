@@ -102,9 +102,11 @@ I usually check the logs first if there is any visible errors happening in the c
 
 **5. Do you have experience working with REST APIs or making HTTP requests in JavaScript? Can you share an example?**
 
-When working with web applications, I 
+When working with web applications, I tend to built the logic behind the scenes first. Create a structure that is time-efficient, storage-efficient, secured, and it should be reusable. Once that is done, I would create a boilerplate of the user interface, and create a function that will then fetch that data from the server, using REST APIs, and have it display in the interface. I would test if I could manage to use the CRUD operations in the application, then I would finish the application interface so it looks user-friendly, accessible, and responsive. Resulting to a smooth development of the application.
 
 **6. What's your approach to learning new technologies or frameworks quickly?**
+
+I would first study the documentation of that technology or framework, maybe watch some youtube videos of it as well. But since we have AI at our disposal, it makes the learning experience efficient and effective. Through the discovery of MCP Servers, I was able to quickly learn and adapt the technology based on the topics I indicated in the prompt using a web crawler server.
 
 
 ## Questions for the interviewer
